@@ -1,0 +1,19 @@
+{
+  "name": "gth-demo-vercel-newlead",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "gotohuman": "^0.1.4",
+    "next": "14.2.5",
+    "openai": "^4.53.0",
+    "react": "^18",
+    "react-dom": "^18"
+  }
+}
