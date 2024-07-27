@@ -2,7 +2,7 @@
 
 This AI agent takes the email address of a new lead (from a waitlist, newsletter signup or lead magnet), researches the company (based on the email domain if it's from a business), drafts a personalized initial email outreach and hands it to a human.
 
-## Use this agent in <5 minutes
+## Use this agent in 1 minute
 
 Simply click the button below to deploy this AI agent to a Vercel serverless function.  
 Then trigger it from our web app or via our API and find the results in your gotoHuman inbox.
